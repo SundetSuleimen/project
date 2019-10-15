@@ -43,7 +43,7 @@ console.log(a);
 
 
 let incr = 10,
-    decr = 10;
+    decr = 1;
 
 
 console.log(incr++);
